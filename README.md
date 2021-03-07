@@ -1,4 +1,4 @@
-# Music-Genre-Classifier-CNN
+# MusicGenreClassifierCNN
 
 This program will determine the genre of a given song/songs out of the 5 following:
 
