@@ -6,7 +6,7 @@ Metal, Rock, Hip-Hop, EDM, and Pop.
 
 ![alt text](https://i.imgur.com/TNI9VmU.png)
 
-When predicting individual snippets, it had an accuracy of about 55%, however when predicting full songs, this increased quite a lot.
+When predicting individual snippets, it had an accuracy of about 55%, however when predicting full songs, this increased quite a lot to about 75%.
 
 I used the Google AudioSet during training - https://research.google.com/audioset/dataset/index.html
 
